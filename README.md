@@ -21,5 +21,5 @@ UserBot Telegram interaktif dengan button inline menggunakan Pyrogram.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/telegram-userbot.git
-cd telegram-userbot
+git clone https://github.com/YanzXNexuz666xZ/YanzUbot.git
+cd YanzUbot
